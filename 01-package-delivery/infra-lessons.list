@@ -1,0 +1,1 @@
+deb [signed-by=/etc/apt/keyrings/infra-lessons-repo.gpg] https://cds01/repo/ ./

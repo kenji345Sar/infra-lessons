@@ -70,4 +70,6 @@
 
 ## 進捗
 
-未着手（README のみ）。
+- step-01 〜 step-08 完了。`client` から `apt install hello-infra` が成功し、mTLS 越しに自前 apt repo を配信できる状態。
+- 作業ログ: [2026-05-27-session-log.md](2026-05-27-session-log.md)
+- 残: cds02 の同期、HAProxy での負荷分散、Ansible 化。
